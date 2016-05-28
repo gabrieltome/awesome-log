@@ -30,5 +30,7 @@ Nesta palestra, vamos abordar os conceitos fundamentais do Node.js, falando de s
 
 ---
 
+[**Learn new things, but enjoy the process**](http://gabrielgodoy.com/learn-new-things-but-enjoy-the-process/) `learning`
 
+---
 
