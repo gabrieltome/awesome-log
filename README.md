@@ -37,7 +37,19 @@
 
 [**10 Interview Questions
 Every JavaScript Developer Should Know** -
-AKA: The Keys to JavaScript Mastery](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.gk1e8m6je)
+AKA: The Keys to JavaScript Mastery](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.gk1e8m6je) `javascript`
+
+---
+
+[**JavaScript: Promises with Node.js**](http://zpalexander.com/blog/javascript-promises-node-js/) `javascript` `nodejs`
+
+---
+
+[**FunFunFunction: Youtube Playlist - Functional programming in JavaScript**](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) `javascript` `functional programming`
+
+---
+
+[**Flickity**](http://flickity.metafizzy.co/) `css` `tools` `front-end` `carousel`
 
 ---
 
