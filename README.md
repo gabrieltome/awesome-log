@@ -53,3 +53,11 @@ AKA: The Keys to JavaScript Mastery](https://medium.com/javascript-scene/10-inte
 
 ---
 
+## Apr - 2016
+
+###Learn
+
+[**Começando com ES6**](https://medium.com/@brunovincius/come%C3%A7ando-com-es6-e346298e941b#.ye74ig48m) `javascript` `es6`
+
+---
+
