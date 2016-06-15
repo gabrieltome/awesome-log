@@ -61,3 +61,15 @@ AKA: The Keys to JavaScript Mastery](https://medium.com/javascript-scene/10-inte
 
 ---
 
+[**The Ideal Design Workflow**](https://blog.prototypr.io/the-ideal-design-workflow-2c200b8e337d#.5bwuz3kms) `front-end` `design`
+
+---
+
+[**Web Development - Video**](https://www.youtube.com/watch?v=pB0WvcxTbCA) `front-end` `backend` `web development`
+
+[**Web Development - Infographic**](https://coggle.it/diagram/52e97f8c5a143de239005d1b/56212c4e4c505e0045c0d3bda59b77e5977c2c9bd40f3fd0b451bdcf8da4aa52) `front-end` `backend` `web development`
+
+[**Code Babes - Youtube Channel**](https://www.youtube.com/channel/UCVg4DAiKW5WgPKKbQAJ89MA)
+
+[**Perdido em Node.Js. Por onde começar**](http://vizir.com.br/2016/06/perdido-em-node-js-por-onde-comecar/) `nodejs`
+
