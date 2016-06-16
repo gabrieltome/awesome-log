@@ -73,3 +73,4 @@ AKA: The Keys to JavaScript Mastery](https://medium.com/javascript-scene/10-inte
 
 [**Perdido em Node.Js. Por onde começar**](http://vizir.com.br/2016/06/perdido-em-node-js-por-onde-comecar/) `nodejs`
 
+[**UX - Como identificar o comportamento do usuário**](http://tableless.com.br/ux-como-identificar-o-comportamento-do-usuario/) `ux`
