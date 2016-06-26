@@ -1,16 +1,4 @@
-ls# Awesome Log
-
-
-##May - 2016
-
-###Sounds
-
-[Red Hot Chili Peppers - Dark Necessities](https://www.youtube.com/watch?v=qJ_Tw0w3lLA)
-
-[Arctic Monkeys - Do I Wanna Know?](https://www.youtube.com/watch?v=bpOSxM0rNPM)
-
-
-###Learn
+# Log
 
 [**Node.js - Levando o poder do JavaScript para o servidor! - Rodrigo Branas**](https://www.eventials.com/Globalcode/node-js-levando-o-poder-do-javascript-para-o-servidor/) `nodejs` `javascript` `backend`
 
@@ -53,9 +41,6 @@ AKA: The Keys to JavaScript Mastery](https://medium.com/javascript-scene/10-inte
 
 ---
 
-## Apr - 2016
-
-###Learn
 
 [**Começando com ES6**](https://medium.com/@brunovincius/come%C3%A7ando-com-es6-e346298e941b#.ye74ig48m) `javascript` `es6`
 
@@ -76,3 +61,23 @@ AKA: The Keys to JavaScript Mastery](https://medium.com/javascript-scene/10-inte
 [**UX - Como identificar o comportamento do usuário**](http://tableless.com.br/ux-como-identificar-o-comportamento-do-usuario/) `ux`
 
 [**JavaScript For Cats**](http://jsforcats.com/) `javascript`
+
+[**Boas práticas para projetos em Node.JS**](http://vizir.com.br/2016/06/boas-praticas-para-projetos-em-node-js/) `javascript` `nodejs`
+
+[**HTML5 Cheat Sheet**](https://hostingfacts.com/html-cheat-sheet/) `front-end`
+
+---
+
+[The JavaScript Robotics & IoT Platform](http://johnny-five.io/) `javascript` `iot` `robotics` `tools`
+
+[JavaScript Robotics](https://cylonjs.com/) `javascript` `iot` `robotics` `tools`
+
+
+---
+
+
+[Processo front-end na Locaweb](http://tableless.com.br/processo-front-end-na-locaweb/) `front-end`
+
+[JavaScript e CSS no WordPress](http://tableless.com.br/javascript-e-css-no-wordpress/) `javascript` `css` `wordpress`
+
+
