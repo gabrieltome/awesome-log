@@ -71,4 +71,4 @@ AKA: The Keys to JavaScript Mastery](https://medium.com/javascript-scene/10-inte
 
 [Isomorphic JavaScript: The Future of Web Apps](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/) `javascript`
 
-
+[How to create a good pull request](https://blog.alphasmanifesto.com/2016/07/11/how-to-create-a-good-pull-request/) `github`
