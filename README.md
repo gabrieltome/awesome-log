@@ -72,3 +72,11 @@ AKA: The Keys to JavaScript Mastery](https://medium.com/javascript-scene/10-inte
 [Isomorphic JavaScript: The Future of Web Apps](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/) `javascript`
 
 [How to create a good pull request](https://blog.alphasmanifesto.com/2016/07/11/how-to-create-a-good-pull-request/) `github`
+
+[JavaScript: Dicas de bolso – parte 1](http://tableless.com.br/dicas-de-bolso-de-javascript-parte-1/) `javascript`
+
+[Funções do JavaScript na versão ES 6 – Parte 1](http://tableless.com.br/funcoes-javascript-na-versao-es-6-parte-1/) `javascript`
+
+[Flux: Entenda como funciona a arquitetura Flux com React](http://tableless.com.br/flux-entenda-como-funciona-arquitetura-flux-com-react/) `flux` `react` `front-end`
+
+[**GRAV**](https://getgrav.org/) `cms` `php`
