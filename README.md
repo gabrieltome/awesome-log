@@ -84,3 +84,5 @@ AKA: The Keys to JavaScript Mastery](https://medium.com/javascript-scene/10-inte
 [**One Page Scroll**](https://github.com/peachananr/onepage-scroll) `jQuery` `front-end`
 
 [**Domínio no GitHub**](https://willianjusten.com.br/dominio-proprio-no-github-pages/) `github`
+
+[**Smooth Scroll**](http://codepen.io/bassta/pen/LovFG) `front-end` `jQuery`
